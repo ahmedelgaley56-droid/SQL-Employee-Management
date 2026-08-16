@@ -14,7 +14,7 @@ insert into employees values
 (1,'ahmed','it',8000,'fayoum'),
 (2,'sara','hr',7000,'cairo'),
 (3,'omar','data',9000,'giza'),
-(4,'mona','it',8500,'alexindria'),
+(4,'mona','it',8500,'alexandria'),
 (5,'khaled','marketing',7500,'fayoum'),
 (6,'youssef','data',9500,'cairo');
 -- Display Data
